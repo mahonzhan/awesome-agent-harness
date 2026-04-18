@@ -131,7 +131,7 @@ Protocols, conventions, and interface patterns worth watching in the agent ecosy
 | --- | --- | --- | --- |
 | [llms.txt](https://llmstxt.org/) | Jeremy Howard / Answer.AI | 2024-09 | LLM-readable website discovery and content guidance |
 | [MCP](https://modelcontextprotocol.io/) | Anthropic | 2024-11 | Agent / model connection to tools, data, and external systems |
-| [ACP](https://agentcommunicationprotocol.dev/) | Zed and JetBrains | 2025-03 | Agent-to-agent interoperability over an HTTP-native protocol |
+| [ACP](https://agentcommunicationprotocol.dev/) | Zed and JetBrains | 2025-03 | An open standard that enables any agent to integrate seamlessly with any editing environment |
 | [AG-UI](https://docs.ag-ui.com/introduction) | CopilotKit / AG-UI community | 2025-04 | Real-time agent-to-user interaction between agent backends and frontends |
 | [A2A](https://a2a-protocol.org/dev/) | Google | 2025-04 | Agent-to-agent collaboration and task delegation |
 | [AGENTS.md](https://agents.md/) | OpenAI-led industry working group; now stewarded by the Agentic AI Foundation | 2025-08 | Project-level instructions for coding agents |
