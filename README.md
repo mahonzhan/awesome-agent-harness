@@ -50,7 +50,7 @@ Agent harnesses are end-user or developer-facing products that package model acc
 | [Replit Agent](https://replit.com/ai) | 2024-09 | Replit | No |
 | [Bolt.new](https://bolt.new/) | 2024-10 | StackBlitz | No |
 | [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) | 2024-10 | StackBlitz | Yes |
-| [OpenCUA](https://github.com/ModelBest/OpenCUA) | 2024-10-25 | ModelBest | Yes |
+| [OpenCUA](https://github.com/ModelBest/OpenCUA) | 2024-10 | ModelBest | Yes |
 | [Windsurf](https://windsurf.com/) | 2024-11 | Codeium -> Cognition Labs | No |
 | [Amp](https://ampcode.com/) | 2024-11 | Sourcegraph | No |
 | [browser-use](https://browser-use.com/) | 2024-11 | Browser Use Inc. | Yes |
