@@ -35,7 +35,6 @@ Agent harnesses are end-user or developer-facing products that package model acc
 | [Sweep](https://github.com/sweepai/sweep) | 2023-05 | Sweep AI | Yes |
 | [Continue](https://github.com/continuedev/continue) | 2023-06 | Continue, Inc. | Yes |
 | [Lovable (GPT Engineer)](https://lovable.dev/) | 2023-06 | Lovable | No |
-| [Pythagora](https://pythagora.ai/) | 2023-08 | Pythagora | No |
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | 2023-08 | Pythagora | Yes |
 | [Tongyi Lingma](https://lingma.aliyun.com/) | 2023-10 | Alibaba | No |
 | [v0.dev](https://v0.dev/) | 2023-10 | Vercel | No |
@@ -49,6 +48,7 @@ Agent harnesses are end-user or developer-facing products that package model acc
 | [PearAI](https://trypear.ai/) | 2024-07 | PearAI | Yes |
 | [Void](https://voideditor.com/) | 2024-08 | Void Editor Team | Yes |
 | [Replit Agent](https://replit.com/ai) | 2024-09 | Replit | No |
+| [Pythagora](https://pythagora.ai/) | 2024-10 | Pythagora | No |
 | [Bolt.new](https://bolt.new/) | 2024-10 | StackBlitz | No |
 | [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) | 2024-10 | StackBlitz | Yes |
 | [OpenCUA](https://github.com/ModelBest/OpenCUA) | 2024-10 | ModelBest | Yes |
