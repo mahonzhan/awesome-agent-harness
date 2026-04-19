@@ -33,6 +33,7 @@ Agent harnesses are end-user or developer-facing products that package model acc
 | [Cody](https://sourcegraph.com/cody) | 2023-05 | Sourcegraph | No |
 | [Aider](https://aider.chat/) | 2023-05 | Paul Gauthier | Yes |
 | [Sweep](https://github.com/sweepai/sweep) | 2023-05 | Sweep AI | Yes |
+| [Continue](https://github.com/continuedev/continue) | 2023-06 | Continue, Inc. | Yes |
 | [Lovable (GPT Engineer)](https://lovable.dev/) | 2023-06 | Lovable | No |
 | [Pythagora](https://pythagora.ai/) | 2023-08 | Pythagora | No |
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | 2023-08 | Pythagora | Yes |
@@ -60,7 +61,6 @@ Agent harnesses are end-user or developer-facing products that package model acc
 | [Pi Coding Agent](https://github.com/badlogic/pi-mono) | 2025-01 | Mario Zechner | Yes |
 | [Goose](https://block.github.io/goose/) | 2025-01 | Block | Yes |
 | [Crush](https://github.com/charmbracelet/crush) | 2025-01 | Crush AI | Yes |
-| [Continue](https://github.com/continuedev/continue) | 2025-02 | Continue, Inc. | Yes |
 | [Claude Code](https://docs.claude.com/en/docs/claude-code/overview) | 2025-02 | Anthropic | Yes* |
 | [GitHub Copilot](https://github.com/features/copilot) | 2025-02 | GitHub | Yes |
 | [Manus](https://manus.im/) | 2025-03 | Butterfly Effect | No |
