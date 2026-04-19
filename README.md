@@ -34,7 +34,7 @@ Agent harnesses are end-user or developer-facing products that package model acc
 | [Aider](https://aider.chat/) | 2023-05 | Paul Gauthier | Yes |
 | [Sweep](https://github.com/sweepai/sweep) | 2023-05 | Sweep AI | Yes |
 | [Continue](https://github.com/continuedev/continue) | 2023-06 | Continue, Inc. | Yes |
-| [Lovable (GPT Engineer)](https://lovable.dev/) | 2023-06 | Lovable | No |
+| [GPT Engineer](https://github.com/antonosika/gpt-engineer) | 2023-06 | Lovable | Yes |
 | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | 2023-08 | Pythagora | Yes |
 | [Tongyi Lingma](https://lingma.aliyun.com/) | 2023-10 | Alibaba | No |
 | [v0.dev](https://v0.dev/) | 2023-10 | Vercel | No |
@@ -52,6 +52,7 @@ Agent harnesses are end-user or developer-facing products that package model acc
 | [Bolt.new](https://bolt.new/) | 2024-10 | StackBlitz | No |
 | [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) | 2024-10 | StackBlitz | Yes |
 | [OpenCUA](https://github.com/ModelBest/OpenCUA) | 2024-10 | ModelBest | Yes |
+| [Lovable](https://lovable.dev/) | 2024-11 | Lovable | No |
 | [Windsurf](https://windsurf.com/) | 2024-11 | Codeium -> Cognition Labs | No |
 | [Amp](https://ampcode.com/) | 2024-11 | Sourcegraph | No |
 | [browser-use](https://browser-use.com/) | 2024-11 | Browser Use Inc. | Yes |
