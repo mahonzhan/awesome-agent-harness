@@ -60,6 +60,7 @@ Agent harnesses are end-user or developer-facing products that package model acc
 | [Pi Coding Agent](https://github.com/badlogic/pi-mono) | 2025-01 | Mario Zechner | Yes |
 | [Goose](https://block.github.io/goose/) | 2025-01 | Block | Yes |
 | [Crush](https://github.com/charmbracelet/crush) | 2025-01 | Crush AI | Yes |
+| [Continue](https://github.com/continuedev/continue) | 2025-02 | Continue, Inc. | Yes |
 | [Claude Code](https://docs.claude.com/en/docs/claude-code/overview) | 2025-02 | Anthropic | Yes* |
 | [GitHub Copilot](https://github.com/features/copilot) | 2025-02 | GitHub | Yes |
 | [Manus](https://manus.im/) | 2025-03 | Butterfly Effect | No |
