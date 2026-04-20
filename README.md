@@ -75,6 +75,7 @@ Agent harnesses are end-user or developer-facing products that package model acc
 | [Deep Agents](https://github.com/langchain-ai/deepagents) | 2025-07 | LangChain | Yes |
 | [Qoder](https://qoder.com/) | 2025-08 | Alibaba | No |
 | [Open SWE](https://github.com/langchain-ai/open-swe) | 2025-08 | LangChain | Yes |
+| [AstrBot](https://github.com/astrbotdevs/astrbot) | 2025-09 | AstrBotDevs | Yes |
 | [OpenClaw](https://github.com/openclaw/openclaw) | 2025-11 | Peter Steinberger | Yes |
 | [Hermes](https://github.com/nousresearch/hermes-agent) | 2026-02 | Nous Research | Yes |
 
