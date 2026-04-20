@@ -143,7 +143,7 @@ Protocols, conventions, and interface patterns worth watching in the agent ecosy
 | [AGENTS.md](https://agents.md/) | OpenAI-led industry working group; now stewarded by the Agentic AI Foundation | 2025-08 | Project-level instructions for coding agents |
 | [A2UI](https://a2ui.org/) | Google with contributions from CopilotKit and the open-source community | 2025-09 | Agent-generated, declarative UI rendered natively across clients |
 | [Agent Skills](https://agentskills.io/) | Anthropic | 2025-10 | Portable skills and reusable capability packs for agents |
-
+| [DESIGN.md](https://stitch.withgoogle.com/docs/design-md/overview)	|Google (via Google Stitch)	| 2026-03	| Agent-readable design system rules (colors, typography, spacing, patterns) to enforce visual consistency in AI-generated UI |
 
 
 ## Roadmap 🗺️
