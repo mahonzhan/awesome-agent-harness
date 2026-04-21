@@ -16,6 +16,7 @@ This repository is designed for builders, researchers, and anyone trying to answ
 - [Agent Harness](#agent-harness-)
 - [Agent Framework](#agent-framework-)
 - [Workflow Framework](#workflow-framework-)
+- [AgentOps / Observability](#agentops--observability-)
 - [Protocol](#protocol-)
 - [Roadmap](#roadmap-)
 - [Contributing](#contributing-)
@@ -126,6 +127,36 @@ Workflow frameworks are useful for orchestration, scheduling, stateful execution
 | [Dify](https://dify.ai/) | LangGenius | Python | 2023-05 |
 | [Coze](https://www.coze.com/) | ByteDance | Go | 2023-12 |
 | [Burr](https://github.com/dagworks-inc/burr) | DagWorks | Python | 2024-03 |
+
+## AgentOps / Observability 📈
+
+AgentOps and observability tooling help teams monitor, debug, evaluate, and improve agent behavior in production. These tools typically provide traces, session replay, cost/token monitoring, prompt/version tracking, and quality evaluation pipelines.
+
+Common capability buckets:
+
+- **Tracing & replay**: inspect each step (prompt, tool call, model response, latency) of an agent run.
+- **Evaluation**: run online/offline eval sets, track regressions, and compare prompt/model/agent versions.
+- **Cost & performance**: monitor token usage, model spend, error rate, and tail latency over time.
+- **Dataset & feedback loops**: collect production conversations, annotate failure cases, and feed them back into evals.
+- **Governance**: prompt/version history, experiment lineage, and auditability for incident reviews.
+
+| Platform | Developer / Organization | Focus | First Public Release |
+| --- | --- | --- | --- |
+| [AgentOps](https://www.agentops.ai/) | AgentOps / Comet | Agent runtime observability, tracing, cost/performance monitoring, and eval workflows | 2023-09 |
+| [Langfuse](https://langfuse.com/) | Langfuse | Open-source LLM/app observability, traces, prompt management, datasets, and evals | 2023-07 |
+| [LangSmith](https://www.langchain.com/langsmith) | LangChain | Agent tracing, debugging, test/eval pipelines, and experiment comparison | 2023-07 |
+| [Helicone](https://www.helicone.ai/) | Helicone | LLM proxy analytics, request logging, spend monitoring, and caching/rate controls | 2023-05 |
+| [Braintrust](https://www.braintrust.dev/) | Braintrust Data | Evaluation-first workflow for prompts/apps with experiment tracking and scoring | 2023-11 |
+| [Arize Phoenix](https://phoenix.arize.com/) | Arize AI | Open-source observability and evaluation for LLM apps (traces, spans, evals) | 2023-10 |
+| [TruLens](https://www.trulens.org/) | TruEra (now Snowflake) | LLM app evaluation/guardrails with feedback functions and quality metrics | 2023-05 |
+| [Weights & Biases Weave](https://wandb.ai/site/weave/) | Weights & Biases | Prompt/app tracing, experiment analysis, and evaluation workflows | 2024-02 |
+
+Selection notes (quick heuristic):
+
+- Pick **open-source/self-hosted first** (e.g., Langfuse, Phoenix, TruLens) when data residency or internal compliance is strict.
+- Pick **evaluation-first platforms** (e.g., Braintrust, LangSmith, Weave) when your bottleneck is quality iteration speed.
+- Pick a **proxy-centric layer** (e.g., Helicone) when you mainly need model usage analytics and cost control with minimal app changes.
+- Use a **hybrid stack** in larger teams: proxy for spend controls + tracing/eval platform for quality and debugging.
 
 ## Protocol 🌐
 
