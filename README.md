@@ -142,13 +142,13 @@ Common capability buckets:
 
 | Platform | Developer / Organization | Focus | First Public Release |
 | --- | --- | --- | --- |
-| [AgentOps](https://www.agentops.ai/) | AgentOps / Comet | Agent runtime observability, tracing, cost/performance monitoring, and eval workflows | 2023-09 |
+| [Helicone](https://www.helicone.ai/) | Helicone | LLM proxy analytics, request logging, spend monitoring, and caching/rate controls | 2023-05 |
+| [TruLens](https://www.trulens.org/) | TruEra (now Snowflake) | LLM app evaluation/guardrails with feedback functions and quality metrics | 2023-05 |
 | [Langfuse](https://langfuse.com/) | Langfuse | Open-source LLM/app observability, traces, prompt management, datasets, and evals | 2023-07 |
 | [LangSmith](https://www.langchain.com/langsmith) | LangChain | Agent tracing, debugging, test/eval pipelines, and experiment comparison | 2023-07 |
-| [Helicone](https://www.helicone.ai/) | Helicone | LLM proxy analytics, request logging, spend monitoring, and caching/rate controls | 2023-05 |
-| [Braintrust](https://www.braintrust.dev/) | Braintrust Data | Evaluation-first workflow for prompts/apps with experiment tracking and scoring | 2023-11 |
+| [AgentOps](https://www.agentops.ai/) | AgentOps / Comet | Agent runtime observability, tracing, cost/performance monitoring, and eval workflows | 2023-09 |
 | [Arize Phoenix](https://phoenix.arize.com/) | Arize AI | Open-source observability and evaluation for LLM apps (traces, spans, evals) | 2023-10 |
-| [TruLens](https://www.trulens.org/) | TruEra (now Snowflake) | LLM app evaluation/guardrails with feedback functions and quality metrics | 2023-05 |
+| [Braintrust](https://www.braintrust.dev/) | Braintrust Data | Evaluation-first workflow for prompts/apps with experiment tracking and scoring | 2023-11 |
 | [Weights & Biases Weave](https://wandb.ai/site/weave/) | Weights & Biases | Prompt/app tracing, experiment analysis, and evaluation workflows | 2024-02 |
 
 Selection notes (quick heuristic):
