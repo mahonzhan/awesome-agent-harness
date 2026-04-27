@@ -105,6 +105,7 @@ Agent frameworks are developer toolkits for building agent systems. They usually
 | [LangGraph](https://www.langchain.com/langgraph) | LangChain | Python / TypeScript | 2024-01 |
 | [Rig](https://github.com/0xPlaygrounds/rig) | Jetpack.io | Rust | 2024-04 |
 | [Bee Agent Framework](https://framework.beeai.dev/) | IBM | TypeScript | 2024-08 |
+| [Eino](https://github.com/cloudwego/eino) | ByteDance | Go | 2024-10-12  |
 | [PydanticAI](https://ai.pydantic.dev/) | Pydantic | Python | 2024-12 |
 | [Pi Agent Core](https://github.com/badlogic/pi-mono) | Mario Zechner | TypeScript | 2025-01 |
 | [OpenAI Agents SDK](https://platform.openai.com/docs/guides/agents-sdk) | OpenAI | TypeScript / Node / Python / Go | 2025-03 |
