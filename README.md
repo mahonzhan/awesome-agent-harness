@@ -80,6 +80,7 @@ Agent harnesses are end-user or developer-facing products that package model acc
 | [OpenClaw](https://github.com/openclaw/openclaw) | 2025-11 | Peter Steinberger | Yes |
 | [NanoClaw](https://github.com/qwibitai/nanoclaw) | 2026-01 | NanoCo | Yes |
 | [Hermes](https://github.com/nousresearch/hermes-agent) | 2026-02 | Nous Research | Yes |
+| [Warp](https://github.com/warpdotdev/warp) | 2026-04 | Warp | Yes |
 
 `Yes*` indicates a partially open-source, open-core, or otherwise limited open-source model.
 
