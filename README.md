@@ -173,6 +173,7 @@ Protocols, conventions, and interface patterns worth watching in the agent ecosy
 | [ACP](https://agentcommunicationprotocol.dev/) | Zed and JetBrains | 2025-03 | An open standard that enables any agent to integrate seamlessly with any editing environment |
 | [AG-UI](https://docs.ag-ui.com/introduction) | CopilotKit / AG-UI community | 2025-04 | Real-time agent-to-user interaction between agent backends and frontends |
 | [A2A](https://a2a-protocol.org/dev/) | Google | 2025-04 | Agent-to-agent collaboration and task delegation |
+| [ANP](https://agent-network-protocol.com/) |	ANP Open Community	| 2025-05 |	An open protocol stack for the Agentic Web, covering decentralized identity (DID), service discovery, end-to-end encrypted messaging, and agent payments |
 | [AGENTS.md](https://agents.md/) | OpenAI-led industry working group; now stewarded by the Agentic AI Foundation | 2025-08 | Project-level instructions for coding agents |
 | [AP2](https://ap2-protocol.org/) | Google | 2025-09 | An open protocol for secure, agent-led AI commerce  |
 | [A2UI](https://a2ui.org/) | Google with contributions from CopilotKit and the open-source community | 2025-09 | Agent-generated, declarative UI rendered natively across clients |
