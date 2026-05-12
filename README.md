@@ -213,3 +213,13 @@ Suggested contribution format:
 This repository is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
 You are free to share and adapt the material for any purpose, including commercial use, as long as appropriate attribution is given.
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=mahonzhan%2Fawesome-agent-harness&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=mahonzhan/awesome-agent-harness&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=mahonzhan/awesome-agent-harness&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=mahonzhan/awesome-agent-harness&type=date&legend=top-left" />
+ </picture>
+</a>
