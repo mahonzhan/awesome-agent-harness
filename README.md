@@ -29,7 +29,7 @@ timeline
                         : Formalized the formula: Agent = Model + Harness
     2026-3-24   : Anthropic Engineering Team
                         : Long-Horizon Breakthroughes & Context Firewalls
-    2026-4-19 - Present : Addy Osmani (Google) & Industry
+    2026-4-19 : Addy Osmani (Google) & Industry
                              : Definition of the "Harness Gap" & HaaS Convergence
 ```
 
