@@ -38,31 +38,31 @@ timeline
 ### 1. The Spark: Philosophy & The Ratchet Effect
 * **Date:** 2026-2-5
 * **Key Figure:** Mitchell Hashimoto (Co-founder of HashiCorp)
-* **Milestone:** ["My AI Adoption Journey"](https://mitchellh.com/writing/my-ai-adoption-journey) borrowed the concept of a *"Test Harness"* from traditional software engineering. He proposed the **"Engineer the Harness"** philosophy: *Whenever an agent slips, stop blaming the model weights or tweaking prompts. Instead, spend time engineering a rigid environmental constraint so the agent can never make that exact mistake again.* This introduced the concept of the **Engineering Ratchet** to AI development.
+* **Milestone:** [《My AI Adoption Journey》](https://mitchellh.com/writing/my-ai-adoption-journey) borrowed the concept of a *"Test Harness"* from traditional software engineering. He proposed the **"Engineer the Harness"** philosophy: *Whenever an agent slips, stop blaming the model weights or tweaking prompts. Instead, spend time engineering a rigid environmental constraint so the agent can never make that exact mistake again.* This introduced the concept of the **Engineering Ratchet** to AI development.
 
 ### 2. The Validation: Enterprise-Scale Production
 * **Date:** 2026-2-11
 * **Key Organization:** OpenAI
-* **Milestone:** Published the seminal report ["Harness engineering: leveraging Codex in an agent-first world"](https://openai.com/index/harness-engineering/). They open-sourced their post-mortem of a project where an autonomous agent swarm delivered **1 million lines of production code** in 5 months with zero human coding. It proved that Mitchell's harness-constraint philosophy scales remarkably to massive, complex software architectures.
+* **Milestone:** Published the seminal report [《Harness engineering: leveraging Codex in an agent-first world》](https://openai.com/index/harness-engineering/). They open-sourced their post-mortem of a project where an autonomous agent swarm delivered **1 million lines of production code** in 5 months with zero human coding. It proved that Mitchell's harness-constraint philosophy scales remarkably to massive, complex software architectures.
 
 ### 3. The Anatomy: Standardization & The Formula
 * **Date:** 2026-3-10
-* **Key Figure:** [Viv Trivedy](https://www.langchain.com/blog/the-anatomy-of-an-agent-harness) (LangChain Team)
-* **Milestone:** Published [“The Anatomy of an Agent Harness”](https://www.langchain.com/blog/the-anatomy-of-an-agent-harness). Viv formalized the chaotic industry practices into an elegant architectural equation:
+* **Key Figure:** Viv Trivedy (LangChain Team)
+* **Milestone:** Published [《The Anatomy of an Agent Harness》](https://www.langchain.com/blog/the-anatomy-of-an-agent-harness). Viv formalized the chaotic industry practices into an elegant architectural equation:
   $$\text{Agent} = \text{Model} + \text{Harness}$$
   He mapped out the 6 foundational atomic components of a modern harness (Filesystem/Git, Boxed Bash, Context Compaction, Lifecycle Hooks, Search, and Multi-Agent Orchestration), transforming the black magic of agent tuning into a rigorous engineering discipline.
 
 ### 4. The Long-Horizon Breakthrough: Context Firewalls
 * **Date:** 2026-3-24
 * **Key Organization:** Anthropic Engineering Team
-* **Milestone:** ["Harness design for long-running application development"](https://www.anthropic.com/engineering/harness-design-long-running-apps) As agents tackled multi-day tasks, the industry hit the wall of **Context Rot** (reasoning decay as context windows fill up). Anthropic stepped in with breakthrough paradigms for long-running work:
+* **Milestone:** [《Harness design for long-running application development》](https://www.anthropic.com/engineering/harness-design-long-running-apps) As agents tackled multi-day tasks, the industry hit the wall of **Context Rot** (reasoning decay as context windows fill up). Anthropic stepped in with breakthrough paradigms for long-running work:
   * **Full Context Resets:** Tearing down bloated sessions and rebuilding them from a compact, structured *Hand-off File*.
   * **Planner/Generator/Evaluator Splits:** Enforcing a *Sprint Contract* at the harness level to prevent agents from grading their own work ("GANs for code").
 
 ### 5. The Convergence: Harness-as-a-Service (HaaS)
 * **Date:** 2026-4-19
 * **Key Figure/Trend:** Addy Osmani (Google) & Cloud Providers
-* **Milestone:** Addy Osmani published the definitive overview [“Agent Harness Engineering”](https://addyosmani.com/blog/agent-harness-engineering/), declaring that *"The gap between what today's models can do and what you see them doing is largely a harness gap."* This led directly to the **HaaS (Harness-as-a-Service)** era. With the launch of the Claude Agent SDK and OpenAI Agents SDK, the industry shifted from building raw LLM completion loops to configuring robust, managed agent runtimes out of the box.
+* **Milestone:** Addy Osmani published the definitive overview [《Agent Harness Engineering》](https://addyosmani.com/blog/agent-harness-engineering/), declaring that *"The gap between what today's models can do and what you see them doing is largely a harness gap."* This led directly to the **HaaS (Harness-as-a-Service)** era. With the launch of the Claude Agent SDK and OpenAI Agents SDK, the industry shifted from building raw LLM completion loops to configuring robust, managed agent runtimes out of the box.
 
 ---
 
