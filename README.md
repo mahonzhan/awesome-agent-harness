@@ -152,6 +152,7 @@ Common capability buckets:
 | [Arize Phoenix](https://phoenix.arize.com/) | Arize AI | Open-source observability and evaluation for LLM apps (traces, spans, evals) | 2023-10 |
 | [Braintrust](https://www.braintrust.dev/) | Braintrust Data | Evaluation-first workflow for prompts/apps with experiment tracking and scoring | 2023-11 |
 | [Weights & Biases Weave](https://wandb.ai/site/weave/) | Weights & Biases | Prompt/app tracing, experiment analysis, and evaluation workflows | 2024-02 |
+| [agenttrace](https://github.com/luoyuctl/agenttrace) | luoyuctl | Local CLI/TUI for replaying, diffing, and auditing coding-agent JSONL sessions | 2026-05 |
 
 Selection notes (quick heuristic):
 
