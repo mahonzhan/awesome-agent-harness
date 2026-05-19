@@ -11,6 +11,64 @@ This repository is designed for builders, researchers, and anyone trying to answ
 - Where is the boundary between agent frameworks and workflow frameworks? 🔀
 - Which protocols may become core ecosystem standards? 🌐
 
+## 📅 The Evolution Timeline (2026)
+
+The emergence of **Harness Engineering** marks a paradigm shift in the AI Agent landscape: moving from *“Prompt Tuning & Model Obsession”* to *“Rigid Scaffolding & Environment Constraints”*. 
+
+Here is how the discipline converged in early 2026:
+
+
+```mermaid
+timeline
+    title Harness Engineering Evolution (2026)
+    Early February 2026 : Mitchell Hashimoto (HashiCorp)
+                        : Coined the philosophy & "The Engineering Ratchet"
+    February 11, 2026   : OpenAI Technical Memo
+                        : 1M lines of code delivered via agent swarm
+    March 10, 2026      : Viv Trivedy (LangChain)
+                        : Formalized the formula: Agent = Model + Harness
+    Mid-March - April   : Anthropic Engineering Team
+                        : Long-Horizon Breakthroughes & Context Firewalls
+    April 19, 2026 - Present : Addy Osmani (Google) & Industry
+                             : Definition of the "Harness Gap" & HaaS Convergence
+```
+
+
+
+### 1. The Spark: Philosophy & The Ratchet Effect
+* **Date:** Early February 2026
+* **Key Figure:** Mitchell Hashimoto (Co-founder of HashiCorp)
+* **Milestone:** Borrowed the concept of a *"Test Harness"* from traditional software engineering. He proposed the **"Engineer the Harness"** philosophy: *Whenever an agent slips, stop blaming the model weights or tweaking prompts. Instead, spend time engineering a rigid environmental constraint so the agent can never make that exact mistake again.* This introduced the concept of the **Engineering Ratchet** to AI development.
+
+### 2. The Validation: Enterprise-Scale Production
+* **Date:** February 11, 2026
+* **Key Organization:** OpenAI
+* **Milestone:** Published the seminal report [《Harness engineering: leveraging Codex in an agent-first world》](https://openai.com/index/harness-engineering/). They open-sourced their post-mortem of a project where an autonomous agent swarm delivered **1 million lines of production code** in 5 months with zero human coding. It proved that Mitchell's harness-constraint philosophy scales remarkably to massive, complex software architectures.
+
+### 3. The Anatomy: Standardization & The Formula
+* **Date:** March 10, 2026
+* **Key Figure:** [Viv Trivedy](https://addyosmani.com/blog/agent-harness-engineering/) (LangChain Team)
+* **Milestone:** Published [“The Anatomy of an Agent Harness”](https://addyosmani.com/blog/agent-harness-engineering/). Viv formalized the chaotic industry practices into an elegant architectural equation:
+  $$\text{Agent} = \text{Model} + \text{Harness}$$
+  He mapped out the 6 foundational atomic components of a modern harness (Filesystem/Git, Boxed Bash, Context Compaction, Lifecycle Hooks, Search, and Multi-Agent Orchestration), transforming the black magic of agent tuning into a rigorous engineering discipline.
+
+### 4. The Long-Horizon Breakthrough: Context Firewalls
+* **Date:** Mid-March to April 2026
+* **Key Organization:** [Anthropic Engineering Team](https://addyosmani.com/blog/agent-harness-engineering/)
+* **Milestone:** As agents tackled multi-day tasks, the industry hit the wall of **Context Rot** (reasoning decay as context windows fill up). [Anthropic](https://addyosmani.com/blog/agent-harness-engineering/) stepped in with breakthrough paradigms for long-running work:
+  * **Full Context Resets:** Tearing down bloated sessions and rebuilding them from a compact, structured *Hand-off File*.
+  * **Planner/Generator/Evaluator Splits:** Enforcing a *Sprint Contract* at the harness level to prevent agents from grading their own work ("GANs for code").
+
+### 5. The Convergence: Harness-as-a-Service (HaaS)
+* **Date:** April 19, 2026 - Present
+* **Key Figure/Trend:** [Addy Osmani](https://addyosmani.com/blog/agent-harness-engineering/) (Google) & Cloud Providers
+* **Milestone:** [Addy Osmani](https://addyosmani.com/blog/agent-harness-engineering/) published the definitive overview [“Agent Harness Engineering”](https://addyosmani.com/blog/agent-harness-engineering/), declaring that *"The gap between what today's models can do and what you see them doing is largely a harness gap."* This led directly to the **HaaS (Harness-as-a-Service)** era. With the launch of the Claude Agent SDK and OpenAI Agents SDK, the industry shifted from building raw LLM completion loops to configuring robust, managed agent runtimes out of the box.
+
+---
+
+*“Every component in a harness encodes an assumption about what the model can’t do on its own.” — Anthropic. As models evolve, the scaffolding doesn't shrink—it moves to higher ceilings.*
+
+
 ## Contents 📚
 
 - [Agent Harness](#agent-harness-)
