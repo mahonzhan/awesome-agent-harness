@@ -213,6 +213,7 @@ Common capability buckets:
 | [Arize Phoenix](https://phoenix.arize.com/) | Arize AI | Open-source observability and evaluation for LLM apps (traces, spans, evals) | 2023-10 |
 | [Braintrust](https://www.braintrust.dev/) | Braintrust Data | Evaluation-first workflow for prompts/apps with experiment tracking and scoring | 2023-11 |
 | [Weights & Biases Weave](https://wandb.ai/site/weave/) | Weights & Biases | Prompt/app tracing, experiment analysis, and evaluation workflows | 2024-02 |
+| [ax](https://github.com/Necmttn/ax) | Necmttn | Local-first telemetry and memory graph for AI coding agents, with cost analytics, skill/hook usage, workflow extraction, dashboard, and MCP access across Claude Code, Codex, Pi, OpenCode, and Cursor histories | 2026-05 |
 
 Selection notes (quick heuristic):
 
