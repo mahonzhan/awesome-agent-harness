@@ -213,6 +213,7 @@ Common capability buckets:
 | [Arize Phoenix](https://phoenix.arize.com/) | Arize AI | Open-source observability and evaluation for LLM apps (traces, spans, evals) | 2023-10 |
 | [Braintrust](https://www.braintrust.dev/) | Braintrust Data | Evaluation-first workflow for prompts/apps with experiment tracking and scoring | 2023-11 |
 | [Weights & Biases Weave](https://wandb.ai/site/weave/) | Weights & Biases | Prompt/app tracing, experiment analysis, and evaluation workflows | 2024-02 |
+| [Future AGI](https://github.com/future-agi/future-agi) | Future AGI | Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one self-improving feedback loop so agents don't just get monitored, they self-improve. Self-hostable, Apache-2.0 | 2024-06 |
 
 Selection notes (quick heuristic):
 
