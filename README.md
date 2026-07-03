@@ -140,6 +140,7 @@ Agent harnesses are end-user or developer-facing products that package model acc
 | [nanobot](https://github.com/HKUDS/nanobot) | 2026-02 | HKUDS | Yes |
 | [Hermes](https://github.com/nousresearch/hermes-agent) | 2026-02 | Nous Research | Yes |
 | [Warp](https://github.com/warpdotdev/warp) | 2026-04 | Warp | Yes |
+| [agent-qa](https://github.com/vostride/agent-qa) | 2026-05 | Vostride | Yes |
 | [Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 2026-05 | esengine | Yes |
 
 
