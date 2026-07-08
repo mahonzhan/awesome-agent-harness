@@ -139,6 +139,7 @@ Agent harnesses are end-user or developer-facing products that package model acc
 | [NanoClaw](https://github.com/qwibitai/nanoclaw) | 2026-01 | NanoCo | Yes |
 | [nanobot](https://github.com/HKUDS/nanobot) | 2026-02 | HKUDS | Yes |
 | [Hermes](https://github.com/nousresearch/hermes-agent) | 2026-02 | Nous Research | Yes |
+| [Talon](https://github.com/dylanneve1/talon) | 2026-03 | Dylan Neve / Claudius | Yes |
 | [Warp](https://github.com/warpdotdev/warp) | 2026-04 | Warp | Yes |
 | [Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 2026-05 | esengine | Yes |
 
