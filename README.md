@@ -141,6 +141,7 @@ Agent harnesses are end-user or developer-facing products that package model acc
 | [Hermes](https://github.com/nousresearch/hermes-agent) | 2026-02 | Nous Research | Yes |
 | [Warp](https://github.com/warpdotdev/warp) | 2026-04 | Warp | Yes |
 | [Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 2026-05 | esengine | Yes |
+| [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) | 2026-07 | ShakespeareLabs | Yes |
 
 
 `Yes*` indicates a partially open-source, open-core, or otherwise limited open-source model.
