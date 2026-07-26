@@ -213,6 +213,7 @@ Common capability buckets:
 | [Arize Phoenix](https://phoenix.arize.com/) | Arize AI | Open-source observability and evaluation for LLM apps (traces, spans, evals) | 2023-10 |
 | [Braintrust](https://www.braintrust.dev/) | Braintrust Data | Evaluation-first workflow for prompts/apps with experiment tracking and scoring | 2023-11 |
 | [Weights & Biases Weave](https://wandb.ai/site/weave/) | Weights & Biases | Prompt/app tracing, experiment analysis, and evaluation workflows | 2024-02 |
+| [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) | NAIL Group | Live-site browser-agent benchmarking with Docker-isolated runs, cross-harness evaluation, and five-layer replay traces | 2026-04 |
 
 Selection notes (quick heuristic):
 
