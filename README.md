@@ -76,6 +76,7 @@ timeline
 - [Workflow Framework](#workflow-framework-)
 - [AgentOps / Observability](#agentops--observability-)
 - [Protocol](#protocol-)
+- [Related Resources](#related-resources-)
 - [Roadmap](#roadmap-)
 - [Contributing](#contributing-)
 - [License](#license-)
@@ -144,6 +145,12 @@ Agent harnesses are end-user or developer-facing products that package model acc
 
 
 `Yes*` indicates a partially open-source, open-core, or otherwise limited open-source model.
+
+## Related Resources 🔎
+
+| Resource | What it provides |
+| --- | --- |
+| [DeepSeek Harness Handbook](https://github.com/sandbaseai/deepseek-harness-handbook) | Source-backed runtime guides, multilingual troubleshooting, and a 31-resource Agent-first map for DeepSeek Harness operators. |
 
 ## Agent Framework 🧠
 
