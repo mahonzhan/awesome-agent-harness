@@ -190,6 +190,7 @@ Workflow frameworks are useful for orchestration, scheduling, stateful execution
 | [Dify](https://dify.ai/) | LangGenius | Python | 2023-05 |
 | [Coze](https://www.coze.com/) | ByteDance | Go | 2023-12 |
 | [Burr](https://github.com/dagworks-inc/burr) | DagWorks | Python | 2024-03 |
+| [AIWG](https://github.com/jmagly/aiwg) | AIWG Contributors | TypeScript | 2025-08 |
 
 ## AgentOps / Observability 📈
 
