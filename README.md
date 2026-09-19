@@ -240,6 +240,7 @@ Protocols, conventions, and interface patterns worth watching in the agent ecosy
 | [A2UI](https://a2ui.org/) | Google with contributions from CopilotKit and the open-source community | 2025-09 | Agent-generated, declarative UI rendered natively across clients |
 | [Agent Skills](https://agentskills.io/) | Anthropic | 2025-10 | Portable skills and reusable capability packs for agents |
 | [DESIGN.md](https://stitch.withgoogle.com/docs/design-md/overview)	|Google (via Google Stitch)	| 2026-03	| Agent-readable design system rules (colors, typography, spacing, patterns) to enforce visual consistency in AI-generated UI |
+| [Decision Graph Protocol (DGP)](https://github.com/numerous-com/dgp) | Numerous ApS | 2026-09 | Experimental contracts for decision-based agents: immutable evidence frames, typed assessments, and guarded commits |
 
 
 ## Roadmap 🗺️
