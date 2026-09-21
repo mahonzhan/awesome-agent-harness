@@ -136,6 +136,7 @@ Agent harnesses are end-user or developer-facing products that package model acc
 | [Open SWE](https://github.com/langchain-ai/open-swe) | 2025-08 | LangChain | Yes |
 | [AstrBot](https://github.com/astrbotdevs/astrbot) | 2025-09 | AstrBotDevs | Yes |
 | [OpenClaw](https://github.com/openclaw/openclaw) | 2025-11 | Peter Steinberger | Yes |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | 2026-04 | Orkas-AI | Yes |
 | [NanoClaw](https://github.com/qwibitai/nanoclaw) | 2026-01 | NanoCo | Yes |
 | [nanobot](https://github.com/HKUDS/nanobot) | 2026-02 | HKUDS | Yes |
 | [Hermes](https://github.com/nousresearch/hermes-agent) | 2026-02 | Nous Research | Yes |
