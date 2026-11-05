@@ -174,6 +174,7 @@ Agent frameworks are developer toolkits for building agent systems. They usually
 | [Google ADK](https://google.github.io/adk-docs/) | Google | Python / Java / TypeScript / Go | 2025-04 |
 | [Claude Agent SDK](https://docs.claude.com/en/api/agent-sdk/overview) | Anthropic | Python / TypeScript | 2025-06 |
 | [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/overview/) | Microsoft | Python / C# | 2025-10 |
+| [TriCall Harness](https://github.com/jnukylinliu/tricall-harness) | jnukylinliu | Python | 2026-11 |
 
 ## Workflow Framework 🔄
 
